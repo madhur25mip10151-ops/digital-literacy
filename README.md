@@ -1,49 +1,28 @@
 
-# Stock-market-prediction-with-machine￾learning-project
-Author – Madhur Sharma
-Welcome to the Stock Market Prediction project! This repository contains a machine 
-learning model to predict stock prices and a user-friendly web application built with 
-Streamlit to interact with the model.
-Features
-Data Collection: Fetches historical stock price data from a reliable source.
-Data Preprocessing: Cleans and prepares the data for training the machine learning model.
-Model Training: Uses machine learning algorithms to predict future stock prices based on 
-historical data.
-Interactive Web App: A Streamlit-based web application to visualize stock data and interact 
-with the prediction model.
-Table of Contents
-Installation
-Usage
-Project Structure
-Model Description
-Web App Description
-Contributing
-Installation
-Run the Streamlit app:
-streamlit run app.py
-Open your web browser and go to:
-Interact with the app to visualize stock data and predict future prices.
-Project Structure
-data/: Contains historical stock price data.
-notebooks/: Jupyter notebooks for exploratory data analysis and model development.
-models/: Trained machine learning models.
-app.py: Streamlit application
-README.md: Project documentation.
-Model Description
-The machine learning model used in this project is a [mention the algorithm, e.g., LSTM, 
-ARIMA, etc.] model. It has been trained on historical stock price data to predict future 
-prices. The model includes the following steps:
-Data Preprocessing: Handling missing values, feature scaling, and splitting the data into 
-training and test sets.
-Model Training: Training the model on the training set using [specific algorithm].
-Evaluation: Evaluating the model's performance using metrics such as MAE, RMSE, etc.
-Web App Description
-The Streamlit web application provides an interactive interface to:
-Visualize Historical Data: Plot historical stock prices and trends.
-Predict Future Prices: Input a stock symbol and get the predicted future prices.
-Download Results: Download the predicted data for further analysis.
-Contributing
-We welcome contributions from the community! If you have any ideas, suggestions, or bug 
-reports, please open an issue or submit a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE
+Project Overview
+
+This repository contains my Digital Literacy Portfolio Project for the course CSE0001 – Digital Literacy.
+The purpose of this project is to develop awareness about digital tools, online communication, professional digital presence, and cyber safety.
+
+The repository includes five tasks related to different modules of digital literacy.
+
+Module / Task Summary
+Task 1 – Digital Literacy Awareness Infographic
+
+In this task, I created an infographic explaining digital literacy, safe internet practices, and useful digital tools for students using Canva. The infographic helps students understand the importance of responsible technology use.
+
+Task 2 – Student Digital Portfolio
+
+I created and updated my professional profiles on platforms like GitHub and LinkedIn. These platforms help students build a professional digital presence and showcase their skills and projects.
+
+Task 3 – Coding & Collaboration Platforms
+
+I explored coding platforms such as HackerRank / CodeChef and solved a beginner problem. I also created a Google Form quiz on digital literacy awareness.
+
+Task 4 – Email Etiquette
+
+In this task, I wrote two professional emails (one to a professor and one to an internship coordinator). I also created a social media do’s and don’ts checklist for responsible online communication.
+
+Task 5 – Cybercrime Awareness
+
+I prepared a case study on phishing scams and created a cybercrime prevention checklist to help students stay safe online.
