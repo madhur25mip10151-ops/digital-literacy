@@ -1,4 +1,4 @@
-# digital-literacy
+
 # Stock-market-prediction-with-machine￾learning-project
 Author – Madhur Sharma
 Welcome to the Stock Market Prediction project! This repository contains a machine 
